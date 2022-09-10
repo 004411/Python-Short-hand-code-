@@ -1,0 +1,1 @@
+# Python-Short-hand-code-
